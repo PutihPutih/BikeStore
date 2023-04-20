@@ -11,3 +11,7 @@ This script contains SQL statements to drop all objects in the BikeStores sample
 This script contains SQL statements to load sample data into the BikeStores sample database.
 
 Note: You will need to have a compatible database management system installed to use these scripts. Also, make sure to review and modify the scripts as necessary before executing them, especially if you plan to use them in a production environment.
+
+
+Here's the tableau dashboard:
+[Bookstore Dashboard](https://public.tableau.com/app/profile/budiono.guntoro/viz/BookStoreDashboard/Dashboard1?publish=yes)
